@@ -1,4 +1,6 @@
-# my-project
+# vue-拖拽项目
+
+[预览](https://no2015.github.io/vue-tuozhuai/dist/)
 
 ## Project setup
 ```
